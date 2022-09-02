@@ -12,4 +12,4 @@ Growth Mindset believes that skills and intelligence are something that people c
 
 The best example is that yesterday I didn't know how to do this and today I do! Keep moving forward. 
 
-Find my GitHub portfolio here: https://github.com/Araceligm90
+[Find my GitHub portfolio here:] (https://github.com/Araceligm90)
