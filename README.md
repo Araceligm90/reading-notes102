@@ -1,6 +1,6 @@
-# These are my reading notes.
+# These are my reading notes!
 
-Here will go all my reading assignments and everything I learn in Code 102. 
+### Here will go all my reading assignments and everything I learn in Code 102. 
 
 Growth Mindset believes that skills and intelligence are something that people can develop over time with effort and perseverance. While there are people that have inherent qualities and traits, the ultimate success comes from personal development and it's avaiable to anyone who is willing to put an effort and achieve it. 
 
