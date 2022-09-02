@@ -4,7 +4,7 @@
 
 Growth Mindset believes that skills and intelligence are something that people can develop over time with effort and perseverance. While there are people that have inherent qualities and traits, the ultimate success comes from personal development and it's avaiable to anyone who is willing to put an effort and achieve it. 
 
-Reminders to keep myself in a growth mindset: 
+##### Reminders to keep myself in a growth mindset: 
 
 - Failing only means that you have tried.
 - The most successful people out there were at the sarting line at some point too. And made it!
