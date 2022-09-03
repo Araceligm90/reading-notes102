@@ -10,6 +10,6 @@ Growth Mindset believes that skills and intelligence are something that people c
 - The most successful people out there were at the sarting line at some point too. And made it! 
 - Big challenge, big reward! 💪
 
-The best example is that yesterday I didn't know how to do this and today I do! Keep moving forward. 
+The best example is that yesterday I didn't know how to do this and today I'm doing this beautiful to be website! Keep moving forward. 
 
 [Find my GitHub portfolio here](https://github.com/Araceligm90)
