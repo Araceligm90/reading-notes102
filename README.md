@@ -16,3 +16,7 @@ The best example is that yesterday I didn't know what GitHub or Markdown were an
 [And see my biography here](https://araceligm90.github.io/Biography-/)
 
 
+#What is markdown?
+
+Markdown is a plain and easy to use markup language used to write content on the web alternatively to HTML. 
+It is used with plain text and adds formatting elements, such as headings, lists, URLs, images, etc. 
