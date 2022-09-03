@@ -6,9 +6,9 @@ Growth Mindset believes that skills and intelligence are something that people c
 
 **Reminders to keep myself in a growth mindset:** 
 
-- Failing only means that you have tried. :adhesive_bandage:
-- The most successful people out there were at the sarting line at some point too. And made it! :bulb:
-- Big challenge, big reward! :muscle:
+- Failing only means that you have tried.
+- The most successful people out there were at the sarting line at some point too. And made it! 
+- Big challenge, big reward! 💪
 
 The best example is that yesterday I didn't know how to do this and today I do! Keep moving forward. 
 
