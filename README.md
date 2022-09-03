@@ -25,5 +25,7 @@ It is used with plain text and adds formatting elements, such as headings, lists
 
 **Markdown basic writing and formatting syntax**
 
-- Headings are created by adding '#' at the beggining of the sentence or word. You can add one '#' for the biggest heading and 6'#' for the smallest one. *Remember to leave a space between the '#' and the text or it**won't**work.*
-- To**bold**text use two asterisks at the begginig and at the end of a word or a sentence. You can also add an underscore before and after the sentence or word. However, if you would like to highlight a word in between a sentence add the two asterisks to the work you would like to emphasize without any space between the word before or after it.
+- Headings are created by adding '#' at the beggining of the sentence or word. You can add one '#' for the biggest heading and 6'#' for the smallest one. *Remember to leave a space between the '#' and the text or it **won't** work.*
+- To **bold** text, use two asterisks at the begginig and at the end of a word or a sentence. You can also add an underscore before and after the sentence or word. You can also emphasize one word within a sentence using the same rule. *Even though asterisks and underscores are interchangeable when it comes to bolding a text, one asterisks will work to bold a single word in between a sentence.*
+- To italicize text, add an asterisk or an underscore at the beggining of the word or sentence and another one at the end. 
+- To italicize and bold text, add either three asterisks or three underscores at the beggining and at the end of a word or phrase.
