@@ -29,7 +29,7 @@ It is used with plain text and adds formatting elements, such as headings, lists
 
 - To **bold** text, use two asterisks at the beginning and at the end of a word or a sentence. You can also add an underscore before and after the sentence or word. You can also emphasize one word within a sentence using the same rule. *Even though asterisks and underscores are interchangeable when it comes to bolding a text, one asterisks will work to bold a single word in between a sentence.*
 
-- To italicize text, add an asterisk or an underscore at the beggining of the word or sentence and another one at the end. 
+- To _italicize_ text, add an asterisk or an underscore at the beggining of the word or sentence and another one at the end. 
 
 - To italicize and bold text, add either three asterisks or three underscores at the beggining and at the end of a word or phrase.
 
