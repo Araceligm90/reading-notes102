@@ -32,3 +32,13 @@ It is used with plain text and adds formatting elements, such as headings, lists
 - To italicize text, add an asterisk or an underscore at the beggining of the word or sentence and another one at the end. 
 
 - To italicize and bold text, add either three asterisks or three underscores at the beggining and at the end of a word or phrase.
+
+- To add a quote, add a '<' at the beggining of a sentence. They can also be nested by adding 2 '<'. For better readibility add blanklines before and after the quote. 
+
+- To create an ordered list, add a number followed by a period. The numbers don’t have to be in numerical order, but the list should start with the number one.
+
+- To create an unordered list, add dashes, asterisks or a plus sign. Indent one or more items to create a nested list. 
+
+- To add an image, the easiest way is to drag and paste the image on your repository and then add it by using the following formula: ![Name you want to give to the iamge](Image.jpg). Note the exclamation sign at the beggining as well as that there is not space between the two different sets of brackets. 
+
+- To add a link use the exact same rule as for the image without the exclamation sigg: [This is my cool site](www.araceliscoolsite.com). Once again no spaces between the two sets of brackets. 
