@@ -39,6 +39,6 @@ It is used with plain text and adds formatting elements, such as headings, lists
 
 - To create an unordered list, add dashes, asterisks or a plus sign. Indent one or more items to create a nested list. 
 
-- To add an image, the easiest way is to drag and paste the image on your repository and then add it by using the following formula: ![Name you want to give to the iamge](Image.jpg). Note the exclamation sign at the beggining as well as that there is not space between the two different sets of brackets. 
+- To add an image, the easiest way is to drag and paste the image on your repository and then add it by using the following formula: ![Name you want to give to the image]+(Image.jpg). Note the exclamation sign at the beggining and erase the plus sign between the two sets of different brackets. Also leave no space between them. 
 
-- To add a link use the exact same rule as for the image without the exclamation sigg: [This is my cool site](www.araceliscoolsite.com). Once again no spaces between the two sets of brackets. 
+- To add a link use the exact same rule as for the image without the exclamation sigg: [This is my cool site]+(www.araceliscoolsite.com). Once again no plus sign as well as no space between the two sets of brackets. 
