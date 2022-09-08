@@ -16,7 +16,7 @@ Once you are there, you can enter a command.
 
         /Aracelis-Air:~ araceligarcia$ pwd
     
-2. ls (list): this command will tell you what is in your current location. E.g.
+2. ls (list): this command will tell you the directories at your current location. However it will only show visible files. E.g.
 
          Aracelis-Air:~ araceligarcia$ ls
    
@@ -33,4 +33,17 @@ Once you are there, you can enter a command.
 4. /etc is a command line argument that will tell ls not to list the current directory but to list the directories' content instead. 
 
          Aracelis-Air:~ araceligarcia$ ls /etc
+
+5. cd (change directory) + name of directory or folder will open the selected one
+
+        Aracelis-Air:~ araceligarcia$ cd applications
+
+6. mkdir (make directory) will create a new folder.
+7. 'pictures mkdir holidays': this will create a folder called 'holidays' inside my 'pictures' folder.
+8. 'touch' is a command to create a file. It is very important though that you specify what kind of file you want to create. E.g.
+
+        Aracelis-Air:~ araceligarcia$ touch lecture.doc
+
+9. cd (change directories): this will take you back to the previous directoy. *You can go back as many times as you want typing a 'cd' for every directoy you want to go back to and adding an additional one.*
+10. 'folder tree' will show you what is inside a folder. 
 
