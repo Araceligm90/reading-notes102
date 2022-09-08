@@ -14,25 +14,19 @@ Once you are there, you can enter a command.
 
 1. pwd (print working directory): this command does just that. It tells you your current or present working directory or folder. E.g.
 
-    /Aracelis-Air:~ araceligarcia$ pwd
-    /Users/araceligarcia
-    Aracelis-Air:~ araceligarcia$ 
+     /Aracelis-Air:~ araceligarcia$ pwd
     
 2. ls (list): this command will tell you what is in your current location. E.g.
 
     Aracelis-Air:~ araceligarcia$ ls
+   
     Applications	Documents	Movies		Public
-    Downloads	Music		projects
-    Desktop		Library		Pictures
-    Aracelis-Air:~ araceligarcia$ 
  
  3. -l after the ls commands for a longer list of what has been shown. This will also give you additional information about the folders or directories. E.g.
  
     Aracelis-Air:~ araceligarcia$ ls -l
     total 0
     drwx------@   3 araceligarcia  staff    96 Nov 20  2020 Applications
-    drwx------@  18 araceligarcia  staff   576 Jun 30 20:35 Desktop
-    drwx------@  17 araceligarcia  staff   544 Aug 24  2021 Documents
     etc.
     Aracelis-Air:~ araceligarcia$ 
     
