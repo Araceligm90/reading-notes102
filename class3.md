@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Git tutorial
 
@@ -20,11 +20,17 @@ Now that this two basic concepts have been explained...
 
 3. Loss of Data: Git makes ir very difficult for a snapshiot of yur file that is commited to be lost.
 
-4. States: Files in Git ca reside in three different states:
+4. States: Files in Git can reside in three different states:
 
     - Committed: data is securely stored in a local database.
     - Modified: file has bee changed but not committed to the database.
     - Staged: flagged a file's changed version to be committed in the next snapshot.
-=======
-# Class 3 Reading Notes 
->>>>>>> refs/remotes/origin/main
+
+
+## How to send files from VS Code to GitHub:
+
+1. git add selectedfile.md
+
+2. git commit -m "Description you want to give it"
+
+3. git push origin main 
