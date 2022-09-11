@@ -19,6 +19,7 @@ The best example is that yesterday I didn't know what GitHub or Markdown were an
 ## Reading notes:
 
 [Class 1 Reading Notes](class1.md)
+
 [Class 2 Reading Notes](class2.md)
 
-
+[Class 3 Reading Notes](class3.md)
