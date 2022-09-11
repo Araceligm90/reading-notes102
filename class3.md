@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Git tutorial
 
@@ -24,3 +25,6 @@ Now that this two basic concepts have been explained...
     - Committed: data is securely stored in a local database.
     - Modified: file has bee changed but not committed to the database.
     - Staged: flagged a file's changed version to be committed in the next snapshot.
+=======
+# Class 3 Reading Notes 
+>>>>>>> refs/remotes/origin/main
