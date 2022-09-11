@@ -22,3 +22,4 @@ It is used with plain text and adds formatting elements, such as headings, lists
 - To add an image, the easiest way is to drag and paste the image on your repository and then add it by using the following formula: ![Name you want to give to the image]+(Image.jpg). Note the exclamation sign at the beginning and erase the plus sign between the two sets of different brackets. Also leave no space between them. 
 
 - To add a link use the exact same rule as for the image without the exclamation sign: [This is my cool site]+(www.araceliscoolsite.com). Once again no plus sign as well as no space between the two sets of brackets. 
+
