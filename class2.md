@@ -47,3 +47,5 @@ Once you are there, you can enter a command.
 9. cd .. (change directories): this will take you back to the previous directoy. *You can go back as many times as you want typing an additional '.' for every directoy you want to go back to and adding an additional one.*
 10. 'folder tree' will show you what is inside a folder. 
 
+
+
