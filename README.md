@@ -16,5 +16,9 @@ The best example is that yesterday I didn't know what GitHub or Markdown were an
 [And see my biography here](https://araceligm90.github.io/Biography-/)
 
 
+## Reading notes:
+
+[Class 1 Reading Notes](class1.md)
+[Class 2 Reading Notes](class2.md)
 
 
