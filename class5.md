@@ -18,7 +18,7 @@ CSS is a rule-based language -you define the rules by specifying styles that wil
 
 For example, in the example above we see the following:
 
-1. The CSS rule opens with a selector. This selects the HTML element that we want to style, which in this case is <h1>
+1. The CSS rule opens with a selector. This selects the HTML element that we want to style, which in this case is < h1 >
 
 2. The we have a set of curly brace { }
 
