@@ -22,7 +22,7 @@ For example, in the example above we see the following:
 
 2. The we have a set of curly brace { }
 
-3. Inside of the braces but one line down we have the declarations, which will take the form of ## property ## and ## value ##. In this case, the property is 'color', then we have a colon and then we have the value, which is 'red'.
+3. Inside of the braces but one line down we have the declarations, which will take the form of **property** and **value**. In this case, the property is 'color', then we have a colon and then we have the value, which is 'red'.
 
 4. To finalize we add a semicolon at the end of the declaration and, if we are finished, we close with the closing curly brace.
 
