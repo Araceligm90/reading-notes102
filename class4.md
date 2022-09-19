@@ -9,4 +9,3 @@ To make it simple, wreframing will allow you to test how the users will interact
 There are plenty of tools for wireframing, but the easiest one is just using pen and paper.
 
 ![wireframing](wireframing.jpg)
-
