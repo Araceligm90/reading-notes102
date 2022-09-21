@@ -27,3 +27,5 @@ The best example is that yesterday I didn't know what GitHub or Markdown were an
 [Class 4 Reading Notes](class4.md)
 
 [Class 5 Reading Notes](class5.md)
+
+[Class 6 Reading Notes](class6.md)
