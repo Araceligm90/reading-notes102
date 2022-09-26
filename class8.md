@@ -5,9 +5,13 @@
 
 An expression is a valid unit of code that resolves to a value. There are two types of expressions: those that have side effects (such as assigning values) and those that purely evaluate.
 
-    - The expression x = 7 is an example of the first type. This expression uses the '=' operator to assign the value seven to the variable 'x'. 
+    - The expression x = 7 is an example of the first type. 
+    This expression uses the '=' operator to assign the value 
+    seven to the variable 'x'. 
 
-    - The expression 3 + 4 is an example of the second type. This expression uses the '+' operator to add 3 and 4 together and produce a value, 7. 
+    - The expression 3 + 4 is an example of the second type. 
+    This expression uses the '+' operator to add 3 and 4 
+    together and produce a value, 7. 
 
 
 ### Assignment operators
@@ -52,11 +56,11 @@ From the example above, we can read:
 
 If we run the above code, we will see the below result:
 
-The number is 0
-The number is 1
-The number is 2
-The number is 3
-The number is 4
+    The number is 0
+    The number is 1
+    The number is 2
+    The number is 3
+    The number is 4
 
 
 ### While statement:
@@ -72,15 +76,15 @@ A while statement looks as follows:
 
 In the above example we will see the below result: 
 
-The number is 0
-The number is 1
-The number is 2
-The number is 3
-The number is 4
-The number is 5
-The number is 6
-The number is 7
-The number is 8
-The number is 9
+    The number is 0
+    The number is 1
+    The number is 2
+    The number is 3
+    The number is 4
+    The number is 5
+    The number is 6
+    The number is 7
+    The number is 8
+    The number is 9
 
-On the 10th loop the condition becomes false, therefore the satament within the loop stops executing.  
+On the 10th loop the condition becomes false, therefore the satament within the loop stops executing.
