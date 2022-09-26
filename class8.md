@@ -65,10 +65,10 @@ A while statement executes its statemets as long as a specific condition evaluat
 
 A while statement looks as follows:
 
-while ( i < 10) {
-    text += "The number is " + 1;
-    i++;
-}
+    while ( i < 10) {
+        text += "The number is " + 1;
+        i++;
+    }
 
 In the above example we will see the below result: 
 
